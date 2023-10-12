@@ -4,6 +4,8 @@ A disassembly of Sonic the Hedgehog 2 for the Sega Mega Drive/Genesis, modified 
 
 ![image](https://github.com/puyofan99/wz-in-s2/assets/58315244/16ffb4fa-97a6-4885-9964-57cb37127720)
 
+It's also one of the most complicated things I've ever done in ROM hacking a game, ever.
+
 *To build this, use build.bat if you're a Windows user, or build.lua otherwise. The built ROM will be called 's2built.bin'.*
 
 ### WOOD ZONE STUFF:
